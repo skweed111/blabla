@@ -489,3 +489,5 @@
 // console.log(person);
 
 export const hello = "салам амаллейкум";
+
+export const changeText = "измененный текст";
